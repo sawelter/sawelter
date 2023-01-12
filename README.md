@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-# Work in progress, this will be updated soon!
+Work in progress, this will be updated soon!
 
 <!--
 **sawelter/sawelter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

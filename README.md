@@ -4,16 +4,14 @@ Work in progress, this will be updated soon!
 
 ### Tools
 
-<img src="https://user-images.githubusercontent.com/110304838/213890259-a9185d3a-ea45-45b2-9f92-a7fee658b53e.svg" alt="css3 icon">
-<img src="https://user-images.githubusercontent.com/110304838/213890262-7ad3c33d-7469-4770-88c8-9a69f4608a7b.svg" href="https://www.cypress.io/" alt="cypress.io icon">
-
-![cypress](https://user-images.githubusercontent.com/110304838/213890262-7ad3c33d-7469-4770-88c8-9a69f4608a7b.svg)
-![git](https://user-images.githubusercontent.com/110304838/213890264-0dc14dd6-902e-49f1-9c4c-66dd5e5ac068.svg)
-![html5](https://user-images.githubusercontent.com/110304838/213890265-d987f7fc-28b0-47f8-ab73-5a3b4d44d750.svg)
-![javascript](https://user-images.githubusercontent.com/110304838/213890266-37d71ce8-48ed-4b1d-8e6c-978577250830.svg)
-![nodedotjs](https://user-images.githubusercontent.com/110304838/213890267-d12e17fd-265e-49b7-be15-6ab8bbb30941.svg)
-![react](https://user-images.githubusercontent.com/110304838/213890268-962e9900-27ed-4420-a10c-8ca2bfcd0cd6.svg)
-
+<img src="https://user-images.githubusercontent.com/110304838/213890259-a9185d3a-ea45-45b2-9f92-a7fee658b53e.svg" alt="css3 icon" width="50" height="50">
+<a href="https://www.cypress.io/">
+<img src="https://user-images.githubusercontent.com/110304838/213890262-7ad3c33d-7469-4770-88c8-9a69f4608a7b.svg" alt="cypress.io icon" width="50" height="50"></a>
+<a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/110304838/213890264-0dc14dd6-902e-49f1-9c4c-66dd5e5ac068.svg" alt="git icon" width="50" height="50"></a>
+<img src="https://user-images.githubusercontent.com/110304838/213890265-d987f7fc-28b0-47f8-ab73-5a3b4d44d750.svg" alt="html5 icon" width="50" height="50">
+<a href="https://www.javascript.com/"><img src="https://user-images.githubusercontent.com/110304838/213890266-37d71ce8-48ed-4b1d-8e6c-978577250830.svg" alt="javascript icon" width="50" height="50"></a>
+<a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/110304838/213890267-d12e17fd-265e-49b7-be15-6ab8bbb30941.svg" alt="node.js icon" width="50" height="50"></a>
+<a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/110304838/213890268-962e9900-27ed-4420-a10c-8ca2bfcd0cd6.svg" alt="react icon" width="50" height="50"></a>
 
 ### Connect with me: 
 

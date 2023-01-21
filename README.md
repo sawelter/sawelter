@@ -2,7 +2,7 @@
 
 Work in progress, this will be updated soon!
 
-![twitter](https://user-images.githubusercontent.com/110304838/213889418-a7afae45-43a6-4a29-b865-f93debf957b6.svg)
+<img src="https://user-images.githubusercontent.com/110304838/213889584-23bf2722-c24f-4061-8a3b-be4fc574abe8.svg" alt="linkedin icon" width="25" height="25">
 
 
 <!--

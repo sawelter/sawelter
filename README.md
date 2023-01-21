@@ -2,7 +2,8 @@
 
 Work in progress, this will be updated soon!
 
-<img src="https://user-images.githubusercontent.com/110304838/213889584-23bf2722-c24f-4061-8a3b-be4fc574abe8.svg" alt="linkedin icon" width="25" height="25">
+<a href="https://www.linkedin.com/in/sawyer-welter-474065256/"><img src="https://user-images.githubusercontent.com/110304838/213889584-23bf2722-c24f-4061-8a3b-be4fc574abe8.svg" alt="linkedin icon" width="25" height="25"></a>
+
 
 
 <!--

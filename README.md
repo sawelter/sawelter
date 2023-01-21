@@ -1,16 +1,16 @@
-## Sawyer Welter, Web Developer 👋
+# Sawyer Welter, Web Developer 👋
 
-*Connect with me:*
+*Connect with me:*<br>
 <a href="https://www.linkedin.com/in/sawyer-welter-474065256/"><img src="https://user-images.githubusercontent.com/110304838/213889584-23bf2722-c24f-4061-8a3b-be4fc574abe8.svg" alt="linkedin icon" width="25" height="25"></a>
 <a href="https://twitter.com/sawyer_welter"><img src="https://user-images.githubusercontent.com/110304838/213889723-2707c735-7d31-414c-a4d2-5b6fea67c850.svg" alt="twitter icon" width="25" height="25">
   
-### About Me
+## About Me
 
-I'm a web-developer-in-the-making, currently learning full-stack development at Bloomtech. I'm particularly interested in user experience and interaction design, so I graduated with a psychology degree from Portland State University, where I also spent several semesters studying graphic design and computer science. 
+<center>I'm a web-developer-in-the-making, currently learning full-stack development at Bloomtech. I'm particularly interested in user experience and interaction design, so I graduated with a psychology degree from Portland State University, where I also spent several semesters studying graphic design and computer science. 
   
-I love to travel and talk to people from other places - I've spent two months learning Japanese at Waseda University in Tokyo, and eight months teaching English to middle school students near Paris. My dream job would include working with people from other countries and cultures, or being able to go to those places myself. 
+I love to travel and talk to people from other places - I've spent two months learning Japanese at Waseda University in Tokyo, and eight months teaching English to middle school students near Paris. My dream job would include working with people from other countries and cultures, or being able to go to those places myself. </center>
 
-### Tools
+## Tools
 
 <a href="#"><img src="https://user-images.githubusercontent.com/110304838/213890259-a9185d3a-ea45-45b2-9f92-a7fee658b53e.svg" alt="css3 icon" width="50" height="50"></a>
 <a href="https://www.cypress.io/">
@@ -24,7 +24,7 @@ I love to travel and talk to people from other places - I've spent two months le
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawelter&layout=compact)](https://github.com/sawelter/github-readme-stats)
 
-### Resources Used In Profile README
+## Resources Used In Profile README
   
 - <a href="https://simpleicons.org/"><img src="https://user-images.githubusercontent.com/110304838/213891275-817606ed-8f61-4775-be08-b7685f9e50eb.svg" alt="simpleicons.org icon" width="12" height="12"> simpleicons.org</a>
 - Anurag Hazra's github <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">language card</a>

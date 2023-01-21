@@ -1,12 +1,17 @@
 ## Sawyer Welter, Web Developer 👋
 
+Connect with me: <a href="https://www.linkedin.com/in/sawyer-welter-474065256/"><img src="https://user-images.githubusercontent.com/110304838/213889584-23bf2722-c24f-4061-8a3b-be4fc574abe8.svg" alt="linkedin icon" width="25" height="25"></a>  
+<a href="https://twitter.com/sawyer_welter"><img src="https://user-images.githubusercontent.com/110304838/213889723-2707c735-7d31-414c-a4d2-5b6fea67c850.svg" alt="twitter icon" width="25" height="25">
+  
 ### About Me
 
+I'm a web-developer-in-the-making, with interests ranging from 
+
 J'habitais en France pendant huit mois pendant que j'étais assistant d'anglais au collège près de Paris. J'adore la cité, sa culture, sa cuisine, et son peuple! J'aimerais beaucoup y revenir.
-(I lived in France for eight months while I was an English assistant at a middle school close to Paris. I love the city, its culture, its food, and its people! I'd love to go back.)
+*(I lived in France for eight months while I was an English assistant at a middle school close to Paris. I love the city, its culture, its food, and its people! I'd love to go back.)*
 
 二ヶ月間、日本の東京の早稲田大学で日本語を勉強しました。僕は大好きで、いつか多分一年か二年は日本に住みたいんです！
-(I spent two months at Tokyo's Waseda University learning Japanese. I love it there, and I'd love to live there, maybe for a year or two!)
+*(I spent two months at Tokyo's Waseda University learning Japanese. I love it there, and I'd love to live there, maybe for a year or two!)*
 
 ### Tools
 
@@ -19,24 +24,17 @@ J'habitais en France pendant huit mois pendant que j'étais assistant d'anglais 
 <a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/110304838/213890267-d12e17fd-265e-49b7-be15-6ab8bbb30941.svg" alt="node.js icon" width="50" height="50"></a>
 <a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/110304838/213890268-962e9900-27ed-4420-a10c-8ca2bfcd0cd6.svg" alt="react icon" width="50" height="50"></a>
 
-### Connect with me: 
 
-<a href="https://www.linkedin.com/in/sawyer-welter-474065256/"><img src="https://user-images.githubusercontent.com/110304838/213889584-23bf2722-c24f-4061-8a3b-be4fc574abe8.svg" alt="linkedin icon" width="25" height="25"></a>
-<a href="https://twitter.com/sawyer_welter"><img src="https://user-images.githubusercontent.com/110304838/213889723-2707c735-7d31-414c-a4d2-5b6fea67c850.svg" alt="twitter icon" width="25" height="25">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/sawelter/github-readme-stats)
 
 ### Resources Used In Profile README
-![simpleicons](https://user-images.githubusercontent.com/110304838/213891275-817606ed-8f61-4775-be08-b7685f9e50eb.svg)
-
+  
 - <a href="https://simpleicons.org/"><img src="https://user-images.githubusercontent.com/110304838/213891275-817606ed-8f61-4775-be08-b7685f9e50eb.svg" alt="simpleicons.org icon" width="12" height="12"> simpleicons.org</a>
 - 
 
 
 <!--
-**sawelter/sawelter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Codesignal problems
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...

@@ -21,8 +21,9 @@ Work in progress, this will be updated soon!
 <a href="https://twitter.com/sawyer_welter"><img src="https://user-images.githubusercontent.com/110304838/213889723-2707c735-7d31-414c-a4d2-5b6fea67c850.svg" alt="twitter icon" width="25" height="25">
 
 ### Resources Used In Profile README
+![simpleicons](https://user-images.githubusercontent.com/110304838/213891275-817606ed-8f61-4775-be08-b7685f9e50eb.svg)
 
-- <a href="https://simpleicons.org/">simpleicons.org</a>
+- <a href="https://simpleicons.org/"><img src="https://user-images.githubusercontent.com/110304838/213891275-817606ed-8f61-4775-be08-b7685f9e50eb.svg" width="11" height="11"> simpleicons.org</a>
 - 
 
 

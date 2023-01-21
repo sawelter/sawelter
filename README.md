@@ -1,8 +1,12 @@
-## Hi there! 👋
+## Sawyer Welter, Web Developer 👋
 
+### About Me
 
+J'habitais en France pendant huit mois pendant que j'étais assistant d'anglais au collège près de Paris. J'adore la cité, sa culture, sa cuisine, et son peuple! J'aimerais beaucoup y revenir.
+(I lived in France for eight months while I was an English assistant at a middle school close to Paris. I love the city, its culture, its food, and its people! I'd love to go back.)
 
-Work in progress, this will be updated soon!
+二ヶ月間、日本の東京の早稲田大学で日本語を勉強しました。僕は大好きで、いつか多分一年か二年は日本に住みたいんです！
+(I spent two months at Tokyo's Waseda University learning Japanese. I love it there, and I'd love to live there, maybe for a year or two!)
 
 ### Tools
 
@@ -23,7 +27,7 @@ Work in progress, this will be updated soon!
 ### Resources Used In Profile README
 ![simpleicons](https://user-images.githubusercontent.com/110304838/213891275-817606ed-8f61-4775-be08-b7685f9e50eb.svg)
 
-- <a href="https://simpleicons.org/"><img src="https://user-images.githubusercontent.com/110304838/213891275-817606ed-8f61-4775-be08-b7685f9e50eb.svg" width="11" height="11"> simpleicons.org</a>
+- <a href="https://simpleicons.org/"><img src="https://user-images.githubusercontent.com/110304838/213891275-817606ed-8f61-4775-be08-b7685f9e50eb.svg" alt="simpleicons.org icon" width="12" height="12"> simpleicons.org</a>
 - 
 
 

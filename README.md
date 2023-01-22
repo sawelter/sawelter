@@ -21,7 +21,7 @@ I love to travel and talk to people from other places - I spent two months in 20
 <a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/110304838/213890267-d12e17fd-265e-49b7-be15-6ab8bbb30941.svg" alt="node.js icon" width="50" height="50"></a>
 <a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/110304838/213890268-962e9900-27ed-4420-a10c-8ca2bfcd0cd6.svg" alt="react icon" width="50" height="50"></a>
 
-  <br><br>
+## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawelter&layout=compact)](https://github.com/sawelter/github-readme-stats)
 

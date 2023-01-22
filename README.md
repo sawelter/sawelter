@@ -8,7 +8,7 @@
 
 I'm a web-developer-in-the-making, currently learning full-stack development at Bloomtech. I'm particularly interested in user experience and interaction design, an interest I picked up while obtaining a degree in psychology from Portland State University, where I also spent several semesters studying graphic design and computer science. 
   
-I love to travel and talk to people from other places - I've spent two months learning Japanese at Waseda University in Tokyo, and eight months teaching English to middle school students near Paris. My dream job would include working with people from other countries and cultures, or being able to go to those places myself.
+I love to travel and talk to people from other places - I spent two months in 2019 learning Japanese at Waseda University in Tokyo, and eight months from 2021-2022 teaching English to middle school students near Paris. My dream job would include working with people from other countries and cultures, or being able to go to those places myself.
 
 ## Tools
 

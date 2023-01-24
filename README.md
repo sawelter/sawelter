@@ -24,8 +24,6 @@ I love to travel and talk to people from other places - I spent two months in 20
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawelter&layout=compact)](https://github.com/sawelter/github-readme-stats)
-
-  <br>
   
 ## Quotes
 

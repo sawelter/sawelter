@@ -33,13 +33,13 @@ I love to travel and talk to people from other places - I spent two months in 20
   
 -Samuel Beckett
 
-> “Fais de ta vie un rêve et d’un rêve une réalité.”<br>(<i>Make of your life a dream, and of a dream a reality</i>).<br> (<i>Even dust, when piled up, can become a mountain.</i>)
+> “Fais de ta vie un rêve et d’un rêve une réalité.”<br>(<i>Make of your life a dream, and of a dream a reality</i>).
   
 -Antoine de Saint-Exupéry
 
 
 
-> ちりも積もれば山となる。
+> ちりも積もれば山となる。<br> (<i>Even dust, when piled up, can become a mountain.</i>)
   
 -Japanese proverb 
   

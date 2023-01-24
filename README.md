@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a web-developer-in-the-making, currently learning full-stack development at Bloomtech. I'm particularly interested in user experience and interaction design, an interest I picked up while obtaining a degree in psychology from Portland State University, where I also spent several semesters studying graphic design and computer science. 
+I'm a web-developer-in-progress, currently learning full-stack development at Bloomtech. I'm particularly interested in user experience and interaction design, an interest I picked up while obtaining a degree in psychology from Portland State University, where I also spent several semesters studying graphic design and computer science. 
   
 I love to travel and talk to people from other places - I spent two months in 2019 learning Japanese at Waseda University in Tokyo, and eight months from 2021-2022 teaching English to middle school students near Paris. My dream job would include working with people from other countries and cultures, or being able to go to those places myself.
 
@@ -25,7 +25,17 @@ I love to travel and talk to people from other places - I spent two months in 20
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawelter&layout=compact)](https://github.com/sawelter/github-readme-stats)
 
-  <br><br>
+  <br>
+  
+## Quotes
+
+> Try again. Fail again. Fail better. -Samuel Beckett
+
+> “Fais de ta vie un rêve et d’un rêve une réalité.” -Antoine de Saint-Exupéry
+(<i>Make of your life a dream, and of a dream a reality</i>).
+
+> ちりも積もれば山となる。-Japanese proverb
+(<i>Even dust, when piled up, can become a mountain.</i>)
   
 #### Resources Used In Profile README
   

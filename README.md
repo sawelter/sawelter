@@ -29,13 +29,19 @@ I love to travel and talk to people from other places - I spent two months in 20
   
 ## Quotes
 
-> Try again. Fail again. Fail better. -Samuel Beckett
+> Try again. Fail again. Fail better. 
+  
+-Samuel Beckett
 
-> “Fais de ta vie un rêve et d’un rêve une réalité.” -Antoine de Saint-Exupéry
+> “Fais de ta vie un rêve et d’un rêve une réalité.” 
+  
+-Antoine de Saint-Exupéry
+
 (<i>Make of your life a dream, and of a dream a reality</i>).
 
-> ちりも積もれば山となる。-Japanese proverb
-(<i>Even dust, when piled up, can become a mountain.</i>)
+> ちりも積もれば山となる。
+  
+-Japanese proverb <br> (<i>Even dust, when piled up, can become a mountain.</i>)
   
 #### Resources Used In Profile README
   

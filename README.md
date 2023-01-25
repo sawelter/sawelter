@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a web-developer-in-the-making, currently learning fullstack development at Bloomtech. I'm particularly interested in user experience and interaction design, an interest I picked up while obtaining a degree in psychology from Portland State University, where I also spent several semesters studying design and computer science.
+I'm a web-developer-in-the-making, currently learning full stack development at Bloomtech. I'm particularly interested in user experience and interaction design, an interest I picked up while obtaining a degree in psychology from Portland State University, where I also spent several semesters studying design and computer science.
 
 During these classes, I worked in teams for human-centered design projects that followed the double-diamond design process, from interviewing stakeholders to designing a mock product; I designed page layouts using graphic design principles and created branding guidelines for a fictional company; and I used data structures to construct various projects in C++ and Java.
 

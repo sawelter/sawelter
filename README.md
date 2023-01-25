@@ -1,8 +1,10 @@
 ## About Me
 
-I'm a web-developer-in-the-making, currently learning full-stack development at Bloomtech. I'm particularly interested in user experience and interaction design, an interest I picked up while obtaining a degree in psychology from Portland State University, where I also spent several semesters studying graphic design and computer science. 
-  
-I love to travel and talk to people from other places - I spent two months in 2019 learning Japanese at Waseda University in Tokyo, and eight months from 2021-2022 teaching English to middle school students near Paris. My dream job would include working with people from other countries and cultures, or being able to go to those places myself.
+I'm a web-developer-in-the-making, currently learning fullstack development at Bloomtech. I'm particularly interested in user experience and interaction design, an interest I picked up while obtaining a degree in psychology from Portland State University, where I also spent several semesters studying design and computer science.
+
+During these classes, I worked in teams for human-centered design projects that followed the double-diamond design process, from interviewing stakeholders to designing a mock product; I designed page layouts using graphic design principles and created branding guidelines for a fictional company; and I used data structures to construct various projects in C++ and Java.
+
+I love to travel and talk to people from other places - I spent two months in 2019 learning Japanese at Waseda University in Tokyo, and eight months from 2021-2022 teaching English to middle school students near Paris. I would love the opportunity to work with people from other countries and cultures, or be able to go to those places myself, but I look forward to working in web development wherever I can find the opportunity! 
 
 
 <div align="center">
@@ -27,13 +29,11 @@ I love to travel and talk to people from other places - I spent two months in 20
   
 ## Quotes
 
-> Try again. Fail again. Fail better. <br>     -Samuel Beckett
+> “Try again. Fail again. Fail better.” <br>     -Samuel Beckett
 
-> “Fais de ta vie un rêve et d’un rêve une réalité.”<br>(<i>Make of your life a dream, and of a dream a reality</i>). <br>     -Antoine de Saint-Exupéry
+> “Fais de ta vie un rêve et d’un rêve une réalité.”<br>(<i>Make of your life a dream, and of a dream a reality.</i>) <br>     -Antoine de Saint-Exupéry
 
-
-
-> ちりも積もれば山となる。<br> (<i>Even dust, when piled up, can become a mountain.</i>) <br>     -Japanese proverb 
+> “ちりも積もれば山となる。”<br> (<i>Even dust, when piled up, can become a mountain.</i>) <br>     -Japanese proverb 
   
 #### Resources Used In Profile README
   

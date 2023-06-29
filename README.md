@@ -18,11 +18,17 @@ I love to travel and talk to people from other places - I spent two months in 20
 <a href="https://www.cypress.io/">
 <img src="https://user-images.githubusercontent.com/110304838/213890262-7ad3c33d-7469-4770-88c8-9a69f4608a7b.svg" alt="cypress.io icon" width="50" height="50" title="Cypress.io"></a>
 <a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/110304838/213890264-0dc14dd6-902e-49f1-9c4c-66dd5e5ac068.svg" alt="git icon" width="50" height="50" title="Git"></a>
+<a href="https://expressjs.com/"><img src="https://github.com/sawelter/sawelter/assets/110304838/bc81b8b2-b845-482d-9f41-3fac9c023815" alt="express icon" width="50" height="50" title="Express"></a>
 <a href="#"><img src="https://user-images.githubusercontent.com/110304838/213890265-d987f7fc-28b0-47f8-ab73-5a3b4d44d750.svg" alt="html5 icon" width="50" height="50" title="HTML5"></a>
 <a href="https://www.javascript.com/"><img src="https://user-images.githubusercontent.com/110304838/213890266-37d71ce8-48ed-4b1d-8e6c-978577250830.svg" alt="javascript icon" width="50" height="50" title="Javascript"></a>
 <a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/110304838/213890267-d12e17fd-265e-49b7-be15-6ab8bbb30941.svg" alt="node.js icon" width="50" height="50" title="Node.js"></a>
 <a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/110304838/213890268-962e9900-27ed-4420-a10c-8ca2bfcd0cd6.svg" alt="react icon" width="50" height="50" title="React"></a>
-<a href="https://redux.js.org/"><img src="https://user-images.githubusercontent.com/110304838/214491367-d4b735d0-dde2-49ff-99f6-2f397ecb22a1.svg" alt="redux icon" width="50" height="50" title="Redux"></a><br>
+<a href="https://redux.js.org/"><img src="https://user-images.githubusercontent.com/110304838/214491367-d4b735d0-dde2-49ff-99f6-2f397ecb22a1.svg" alt="redux icon" width="50" height="50" title="Redux"></a>
+<a href="https://www.sqlite.org/index.html"><img src="https://github.com/sawelter/sawelter/assets/110304838/b53f30d1-2855-4407-bca0-53753894b2eb" alt="sqlite icon" width="50" height="50" title="SQLite"></a>
+<br>
+
+
+
 
 
   

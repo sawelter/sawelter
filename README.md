@@ -1,10 +1,10 @@
 ## About Me
 
-I'm a full stack web developer, currently finishing up with Bloomtech's full stack development program. I'm particularly interested in user experience and interaction design, an interest I picked up while obtaining a degree in psychology from Portland State University, where I also spent several semesters studying design and computer science.
+I'm a customer service professional particularly interested in web development and user experience/interaction design, an interest I picked up while obtaining a degree in psychology from Portland State University, where I also spent several semesters studying design and computer science.
 
-During these classes, I worked in teams for human-centered design projects that followed the double-diamond design process, from interviewing stakeholders to designing a mock product; I designed page layouts using graphic design principles and created branding guidelines for a fictional company; and I used data structures to construct various projects in C++ and Java.
+During my college courses, I worked in teams for human-centered design projects that followed the double-diamond design process, from interviewing stakeholders to designing a mock product; I designed page layouts using graphic design principles and created branding guidelines for a fictional company; and I used data structures to construct various projects in C++ and Java. In addition, while completing Bloomtech's Full Stack Web Development course, I also picked up web development skills including React.js, Redux, and SQL.
 
-I love to travel and talk to people from other places - I spent two months in 2019 learning Japanese at Waseda University in Tokyo, and eight months from 2021-2022 teaching English to middle school students near Paris. I would love the opportunity to work with people from other countries and cultures, or be able to go to those places myself, but I look forward to working in web development wherever I can find the opportunity! 
+I love to travel and talk to people from other places - I spent two months in 2019 learning Japanese at Waseda University in Tokyo and eight months from 2021-2022 teaching English to middle school students near Paris. I would love the opportunity to work with people from other countries and cultures, or be able to go to those places myself, but I look forward to working in tech or web development wherever I can find the opportunity! 
 
 
 <div align="center">

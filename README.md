@@ -27,13 +27,6 @@ I love to travel and talk to people from other places - I spent two months in 20
 <br>
 
 
-
-
-
-  
-## Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawelter&layout=compact)](https://github.com/sawelter/github-readme-stats)
   
 ## Quotes
 
@@ -46,4 +39,3 @@ I love to travel and talk to people from other places - I spent two months in 20
 #### Resources Used In Profile README
   
 - <a href="https://simpleicons.org/"><img src="https://user-images.githubusercontent.com/110304838/213891275-817606ed-8f61-4775-be08-b7685f9e50eb.svg" alt="simpleicons.org icon" width="12" height="12"> simpleicons.org</a>
-- Anurag Hazra's github <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">language card</a>
